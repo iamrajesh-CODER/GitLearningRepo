@@ -5,13 +5,8 @@ public class hello
         System.out.println("Rajesh Jha");
         System.out.println("Rajesh");
         System.out.println("Rajesh Jha");
-        System.out.println("Rajesh Jha");
-        System.out.println("Rajesh Jha");
-        System.out.println("Rajesh Jha");
-        System.out.println("Rajesh Jha");
-        System.out.println("Rajesh Jha");
-        System.out.println("Rajesh Jha");
-        System.out.println("Rajesh Jha");
-        System.out.println("Rajesh Jha");
+        System.out.println("new feature add");
+        
+        
     }
 }
